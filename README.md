@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/Rxcehack?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/Rxcehack?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/Rxcehack?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/Rxcehack?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/rajja8/Rxcehack?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/rajja8/Rxcehack?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/rajja8/Rxcehack?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/rajja8/Rxcehack?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-rajja8-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/Rxcehack.git
+$ git clone git://github.com/rajja8/Rxcehack.git
 ```
 
 - Change to cloned directory and run `Rxcehack.sh` -
@@ -64,7 +64,7 @@ $ bash Rxcehack.sh
 ### Run on Docker
 ```
 $ docker pull htrtech/Rxcehack
-$ docker run --rm -it htrtech/Rxcehack
+$ docker run --rm -it rajja8/Rxcehack
 ```
 
 ### Dependencies
