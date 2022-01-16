@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/rajja8/Rxcehack.git
+$ git clone https://github.com/rajja8/Rxcehack.git
 ```
 
 - Change to cloned directory and run `Rxcehack.sh` -
@@ -90,7 +90,7 @@ $ docker run --rm -it rajja8/Rxcehack
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
+- [**Rajjabkhan**](https://github.com/adi1090x)
 - [**1RaY-1**](https://github.com/1RaY-1)
 - [**Yisus7u7**](https://github.com/Yisus7u7)
 - [**sepp0**](https://github.com/sepp0)
